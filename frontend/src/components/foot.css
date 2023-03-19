@@ -1,0 +1,17 @@
+.Foot {
+	/* border: 1px solid rgb(234, 145, 145); */
+	width: auto;
+	justify-self: center;
+	display: flex;
+	justify-content: center;
+	gap: 10%;
+	padding: 10px;
+	background-color: rgb(238, 238, 238);
+}
+
+.btnFoot {
+	background-color: transparent;
+	border: transparent;
+	font-size: large;
+	cursor: pointer;
+}

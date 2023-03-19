@@ -1,0 +1,33 @@
+.NavBar {
+	border: 1px solid rgb(234, 145, 145);
+	width: auto;
+	justify-self: center;
+	display: flex;
+	justify-content: center;
+	gap: 10%;
+	padding: 10px;
+}
+
+.logoButton {
+	height: 68px;
+	width: 236px;
+	left: 0px;
+	top: 0px;
+	border-radius: 0px;
+	background-color: transparent;
+	border: transparent;
+}
+
+.btn {
+	background-color: transparent;
+	border: transparent;
+	font-size: large;
+	cursor: pointer;
+}
+
+.icon {
+	height: 35px;
+	width: 35px;
+	background-color: trasparent;
+	border: transparent;
+}
